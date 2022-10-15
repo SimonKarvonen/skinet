@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "J+4aDKBEBdia0myS92DlvjSIoXmShJTukQQRe+bYXAG8UBq8SHqk/I8kYJ/ygoLsFZ55To16If36u/eHbvhX0w==",
+  "dgSpecHash": "uFjkL6crgUG1GdaQGfvJHIw7OkYdd6akkqaifo00OIu4kYxP82Hq2+otSdyl7j4nrbITuoA1uLp58+/TrEVa2Q==",
   "success": true,
   "projectFilePath": "/Users/simonkarvonen/Developer/skinet/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/simonkarvonen/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/Users/simonkarvonen/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/Users/simonkarvonen/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/simonkarvonen/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/simonkarvonen/.nuget/packages/microsoft.data.sqlite.core/6.0.9/microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
     "/Users/simonkarvonen/.nuget/packages/microsoft.entityframeworkcore/6.0.9/microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
     "/Users/simonkarvonen/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.9/microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",
